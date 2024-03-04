@@ -33,7 +33,7 @@
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
   [Table of contents]
-  
+
   1. Base Styles
   2. Helper Classes
   3. Components
@@ -4860,7 +4860,6 @@ textarea {
     width: 100%;
     min-height: 550px;
     overflow: hidden;
-    background: #160962;
 }
 
 @media screen and (min-width: 0\0) {
@@ -4923,7 +4922,7 @@ footer .image {
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
-    opacity: 0.5;
+    opacity: 1;
 }
 
 .youplay-banner .image img,

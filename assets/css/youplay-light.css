@@ -33,7 +33,7 @@
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
   [Table of contents]
-  
+
   1. Base Styles
   2. Helper Classes
   3. Components
@@ -4883,7 +4883,6 @@ textarea {
     width: 100%;
     min-height: 550px;
     overflow: hidden;
-    background: #c6c3d8;
 }
 
 @media screen and (min-width: 0\0) {
